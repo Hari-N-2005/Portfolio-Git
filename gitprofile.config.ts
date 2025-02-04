@@ -87,10 +87,12 @@ const CONFIG = {
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
     'MySQL',
     'Git',
     'CSS',
+    'Python',
+    'Java',
+    'C',
   ],
   /*experiences: [
     {
