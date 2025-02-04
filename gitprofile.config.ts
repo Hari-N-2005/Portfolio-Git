@@ -37,16 +37,16 @@ const CONFIG = {
           description:
             '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/AliEN-70/NasaSpaceChallenge/blob/main/Nasa/src/assets/Images/logo.jpg?raw=true',
+          link: '',
         },
         {
           title: 'EleValte',
           description:
             '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/AliEN-70/CodeFathers---MECLabs/blob/main/public/Screenshot%20(31)%20(1).png?raw=true',
+          link: '',
         },
       ],
     },
