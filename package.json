@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/arifszn/gitprofile/issues"
   },
-  "homepage": "https://AliEN-70.github.io/repository-name",
+  "homepage": "https://AliEN-70.github.io/Portfolio-Git",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
