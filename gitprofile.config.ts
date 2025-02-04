@@ -62,7 +62,7 @@ const CONFIG = {
     //mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: '_.h.a_r.i.__',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/uc?export=download&id=1v51Ps270VuoKKAmEFySHdRHwShM9ydtq', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -228,11 +228,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
+  /*footer: `Made with <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >GitProfile</a> and ❤️`,*/
 
   enablePWA: true,
 };
