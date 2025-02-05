@@ -35,7 +35,8 @@ const CONFIG = {
         {
           title: 'Carbon Tally',
           description:
-            '',
+            'CodeTally is a webstie that uses a xgboost model to predict the carbon emitted by a person per month. This website provides a seamless UI that enables users to track their carbon emission , get tips and provides a local leaderboard that shows the carbon emissions of people in a locality.
+',
           imageUrl:
             'https://github.com/AliEN-70/NasaSpaceChallenge/blob/main/Nasa/src/assets/Images/logo.jpg?raw=true',
           link: '',
@@ -43,7 +44,7 @@ const CONFIG = {
         {
           title: 'EleValte',
           description:
-            '',
+            'An AI Career Mentor, an intelligent platform that leverages advanced AI technologies to provide tailored career guidance',
           imageUrl:
             'https://github.com/AliEN-70/CodeFathers---MECLabs/blob/main/public/Screenshot%20(31)%20(1).png?raw=true',
           link: '',
