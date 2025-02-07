@@ -37,15 +37,15 @@ const CONFIG = {
           description:
             'CarbonTally is a webstie that uses a xgboost model to predict the carbon emitted by a person per month. This website provides a seamless UI that enables users to track their carbon emission , get tips and provides a local leaderboard that shows the carbon emissions of people in a locality.',
           imageUrl:
-            'https://github.com/AliEN-70/NasaSpaceChallenge/blob/main/Nasa/src/assets/Images/logo.jpg?raw=true',
+            'https://github.com/Hari-N-2005/NasaSpaceChallenge/blob/main/Nasa/src/assets/Images/logo.jpg?raw=true',
           link: '',
         },
         {
-          title: 'EleValte',
+          title: 'Portfolio Website',
           description:
-            'An AI Career Mentor, an intelligent platform that leverages advanced AI technologies to provide tailored career guidance',
+            ' Here, you\'ll find a collection of my projects, showcasing my skills in building responsive, user-friendly, and visually appealing web applications. Explore my work, learn more about me, and feel free to get in touch!',
           imageUrl:
-            'https://github.com/AliEN-70/CodeFathers---MECLabs/blob/main/public/Screenshot%20(31)%20(1).png?raw=true',
+            'https://github.com/Hari-N-2005/Portfolio-Git/blob/main/public/logo.png?raw=true',
           link: '',
         },
       ],
@@ -132,17 +132,17 @@ const CONFIG = {
       to: '2014',
     },
   ],*/
-  /*publications: [
+  publications: [
     {
-      title: 'Publication Title',
+      title: 'Hey Guys, I\'m Hari Govind N.',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: '',
+      authors: '',
+      link: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        ' I\'m a passionate Front-End Developer with a keen eye for design and a love for crafting seamless user experiences. Currently studying at Model Engineering College, Thrikakkara, I specialize in building responsive, intuitive, and visually appealing web applications. With a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React, I thrive on bringing creative ideas to life through clean and efficient code. I’m always eager to learn, experiment, and push the boundaries of front-end development. Let\'s build something amazing together!',
     },
-    {
+    /*{
       title: 'Publication Title',
       conferenceName: 'Conference Name',
       journalName: '',
@@ -150,8 +150,8 @@ const CONFIG = {
       link: 'https://example.com',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-  ],*/
+    },*/
+  ],
   // Display articles from your medium or dev account. (Optional)
   /*blog: {
     source: 'dev', // medium | dev
@@ -167,7 +167,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'night',
+    defaultTheme: 'synthwave',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
