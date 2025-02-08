@@ -13,7 +13,7 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'Github Projects',
+      header: 'Github Repositories',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -46,7 +46,7 @@ const CONFIG = {
             ' Here, you\'ll find a collection of my projects, showcasing my skills in building responsive, user-friendly, and visually appealing web applications. Explore my work, learn more about me, and feel free to get in touch!',
           imageUrl:
             'https://github.com/Hari-N-2005/Portfolio-Git/blob/main/public/logo.png?raw=true',
-          link: '',
+          link: 'https://hari-n-2005.github.io/Portfolio-Git/',
         },
       ],
     },
