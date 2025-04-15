@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/gitprofile/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Repositories',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
