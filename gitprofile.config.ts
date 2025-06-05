@@ -83,13 +83,15 @@ const CONFIG = {
       'https://drive.google.com/uc?export=download&id=1rGVSSGIf6VyAtRfR6hKU-SjQOTmbdAW0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
+    'HTML',
+    'CSS',
     'JavaScript',
     'React.js',
+    'React Redux',
+    'Vue.js',
     'Node.js',
     'MySQL',
     'Git',
-    'CSS',
     'Python',
     'Java',
     'C',
@@ -171,7 +173,7 @@ const CONFIG = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
