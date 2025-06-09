@@ -14,18 +14,18 @@ const CONFIG = {
     github: {
       display: false, // Display GitHub projects?
       header: 'Github Repositories',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'automatic',
       automatic: {
-        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 4, // How many projects to display.
+        sortBy: 'stars', 
+        limit: 4, 
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          forks: false,.
+          projects: [],
         },
       },
       manual: {
-        // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        
+        projects: ['arifszn/gitprofile', 'arifszn/pandora'], 
       },
     },
     external: {
@@ -87,10 +87,12 @@ const CONFIG = {
     'CSS',
     'JavaScript',
     'React.js',
-    'React Redux',
+    'Redux',
     'Vue.js',
     'Node.js',
+    'Express.js',
     'MySQL',
+    'MongoDB',
     'Git',
     'Python',
     'Java',
